@@ -1,0 +1,23 @@
+keyword	enabled	notes
+large language model	true	default LLM topic
+large language models	true	default LLM topic
+llm	true	default LLM topic
+llms	true	default LLM topic
+foundation model	true	default LLM topic
+foundation models	true	default LLM topic
+generative ai	true	default LLM topic
+chatgpt	true	default LLM topic
+gpt	true	default LLM topic
+transformer	true	default LLM topic
+instruction tuning	true	default LLM topic
+retrieval augmented generation	true	default LLM topic
+rag	true	default LLM topic
+prompt	true	default LLM topic
+alignment	true	default LLM topic
+language model	true	default LLM topic
+agricultural knowledge graph	false	enable for agriculture KG weeks
+agriculture knowledge graph	false	enable for agriculture KG weeks
+agricultural knowledge graphs	false	enable for agriculture KG weeks
+knowledge graph	false	enable for knowledge graph weeks
+crop knowledge graph	false	enable for agriculture KG weeks
+smart agriculture	false	enable for agriculture KG weeks
