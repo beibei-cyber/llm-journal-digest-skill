@@ -1,0 +1,7 @@
+interface:
+  display_name: "LLM Journal Digest"
+  short_description: "Weekly bilingual LLM journal digest"
+  default_prompt: "Use $llm-journal-digest to collect, summarize, and publish this week's high-quality LLM journal articles."
+
+policy:
+  allow_implicit_invocation: true
