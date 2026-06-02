@@ -1,0 +1,11 @@
+journal_name	issn	tier	notes	enabled	aliases
+Nature Machine Intelligence	2522-5839	一区	AI and machine learning journal	true	Nat Mach Intell
+IEEE Transactions on Pattern Analysis and Machine Intelligence	0162-8828;1939-3539	一区	Computer vision and machine intelligence	true	TPAMI;IEEE TPAMI
+Journal of Machine Learning Research	1532-4435	一区	Machine learning theory and methods	true	JMLR
+Transactions of the Association for Computational Linguistics	2307-387X	一区	NLP and computational linguistics	true	TACL
+Artificial Intelligence	0004-3702	一区	General AI journal	true	AIJ
+Machine Learning	0885-6125;1573-0565	二区	Machine learning journal	true	Mach Learn
+Natural Language Engineering	1351-3249;1469-8110	二区	NLP engineering journal	true	NLE
+Computational Linguistics	0891-2017;1530-9312	核心	Computational linguistics journal	true	CL
+IEEE Intelligent Systems	1541-1672;1941-1294	核心	Applied AI systems	true	
+ACM Transactions on Intelligent Systems and Technology	2157-6904;2157-6912	二区	Intelligent systems journal	true	TIST
